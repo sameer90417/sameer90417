@@ -1,7 +1,7 @@
 <img src="https://media-exp1.licdn.com/dms/image/D5616AQE_4tiyqU_aWA/profile-displaybackgroundimage-shrink_200_800/0/1664365532432?e=1669852800&v=beta&t=qglcbYYYluYmnq2LwgzXsEP7qW-D4B-F7kBo4Kzhcqk" alt="bootstrap"/>
 
 <h1 align="center">Hi 👋, I'm Doulat ram</h1>
-<h3 align="center">I am a student of B.Tech. cse at I.K.G.P.T.U.<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" /></h3>
+<h3 align="center">I am a student of B.Tech. cse at I.K.G.P.T.U.</h3><img align="right" alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameer90417" alt="sameer90417" /></a> </p>
 
