@@ -1,3 +1,4 @@
+<img src="<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>" alt="bootstrap"/>
 <h1 align="center">Hi 👋, I'm Doulat ram</h1>
 <h3 align="center">I am a student of B.Tech. cse at I.K.G.P.T.U.</h3>
 
