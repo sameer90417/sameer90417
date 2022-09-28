@@ -1,4 +1,5 @@
-<img src="<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>" alt="bootstrap">
+<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://media-exp1.licdn.com/dms/image/D5616AQE_4tiyqU_aWA/profile-displaybackgroundimage-shrink_200_800/0/1664365532432?e=1669852800&v=beta&t=qglcbYYYluYmnq2LwgzXsEP7qW-D4B-F7kBo4Kzhcqk)" alt="bootstrap"/>
+
 <h1 align="center">Hi 👋, I'm Doulat ram</h1>
 <h3 align="center">I am a student of B.Tech. cse at I.K.G.P.T.U.</h3>
 
