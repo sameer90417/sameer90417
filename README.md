@@ -1,4 +1,4 @@
-<div align="center"><img src="https://media-exp1.licdn.com/dms/image/D5616AQE_4tiyqU_aWA/profile-displaybackgroundimage-shrink_200_800/0/1664365532432?e=1669852800&v=beta&t=qglcbYYYluYmnq2LwgzXsEP7qW-D4B-F7kBo4Kzhcqk" alt="bootstrap"/></div>
+<div align="center"><img src="https://media-exp1.licdn.com/dms/image/D4D16AQHUKpqFybxgEg/profile-displaybackgroundimage-shrink_200_800/0/1664477193328?e=1669852800&v=beta&t=uiU4XMck7OipH9tMZeldDTRi_68MiWuY8eW3G2ivFTs" alt="coverImage"/></div>
 
 <h1 align="center">Hi 👋, I'm Doulat ram</h1>
 <h4 align="center"><i>Student of B.Tech. cse at IKGPTU</i></h4>
