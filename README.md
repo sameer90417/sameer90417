@@ -24,5 +24,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameer90417" alt="sameer90417" /></a> </p>
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer90417&show_icons=true&locale=en&layout=compact" alt="sameer90417" /></p>
+
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer90417&show_icons=true&locale=en" alt="sameer90417" /></p>
