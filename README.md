@@ -9,8 +9,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/doulat-ram-8362a623a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doulat ram" height="30" width="40" /></a>
-<a href="https://replit.com/@DoulatRam" target="blank"><img align="center" src="https://camo.githubusercontent.com/4b71c298f8281b8e739aaf60dc14ac56ffcfc67a2ef88d5f26608762aacd063f/68747470733a2f2f7265706c2e69742f7075626c69632f696d616765732f6170706c652d746f7563682d69636f6e2e706e67" alt="doulat ram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/doulat-ram-8362a623a" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doulat ram" height="30" width="40" /></a>
+<a href="https://replit.com/@DoulatRam" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/replit_logo_icon_170784.png" alt="doulat ram" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
