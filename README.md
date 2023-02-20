@@ -1,4 +1,4 @@
-<div align="center"><img src="pb.png" alt="coverImage"/></div>
+<div align="center"><img src="https://media.licdn.com/dms/image/D4D16AQFrLg9UQXhauA/profile-displaybackgroundimage-shrink_350_1400/0/1666773311194?e=1682553600&v=beta&t=T-QCtpdAbn02KjfO7ZAUmd1PpokJ9ITCn_3hCepdAgY;" style="width: 100%;"></div>
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=688cf7&amp;size=20&amp;lines=Hey!+It's+Doulat+Ram;Student+of+BTech+CSE+at+IKGPTU;" style="width: 50%;"></div>
