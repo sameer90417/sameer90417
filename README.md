@@ -5,10 +5,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/doulat-ram-8362a623a" target="_blank" rel="noreferrer"><img align="center" src="https://img.icons8.com/fluency/256/linkedin-circled.png" alt="doulat ram" width="50" height="50" /></a>
-<a href="https://instagram.com/_sameer_1000" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/256/instagram-new.png" alt="Doulat_ram" height="50" width="50" /></a>
-<a href="https://www.youtube.com/channel/UCaQmZGPH0OOvwlIquEfw07w" target="blank"><img align="center" src="https://img.icons8.com/color/256/youtube-play.png" alt="https://www.youtube.com/channel/ucaqmzgph0oovwliquefw07w" height="50" width="50" /></a>
-<a href="https://replit.com/@DoulatRam" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/replit_logo_icon_170784.png" alt="doulat ram" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/doulat-ram-8362a623a" target="_blank" rel="noreferrer"><img align="center" src="https://img.icons8.com/fluency/256/linkedin-circled.png" alt="doulat ram" width="40" height="40" /></a>
+<a href="https://instagram.com/_sameer_1000" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/256/instagram-new.png" alt="Doulat_ram" height="40" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCaQmZGPH0OOvwlIquEfw07w" target="blank"><img align="center" src="https://img.icons8.com/color/256/youtube-play.png" alt="https://www.youtube.com/channel/ucaqmzgph0oovwliquefw07w" height="40" width="40" /></a>
+<a href="https://replit.com/@DoulatRam" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/replit_logo_icon_170784.png" alt="doulat ram" height="40" width="40" /></a>
 </p>
 
 <h3 align="center">Get Resume 👇👇👇</h3>
