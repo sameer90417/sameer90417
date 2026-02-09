@@ -1,4 +1,4 @@
-<div align="center"><img src="https://raw.githubusercontent.com/sameer90417/sameer90417/main/a.png" style="width: 100%;"></div>
+<!-- <div align="center"><img src="https://raw.githubusercontent.com/sameer90417/sameer90417/main/a.png" style="width: 100%;"></div> -->
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=688cf7&amp;size=20&amp;lines=Hey!+It's+Doulat+Ram;I'm+Frontend+Developer;" style="width: 50%;"></div>
